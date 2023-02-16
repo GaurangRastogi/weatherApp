@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 80px;
+    color: antiquewhite;
+    margin-bottom: 5px;
+    width: 100%;
+    position:fixed;
+    
+}
+
+.select{
+    margin: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#select{
+    padding: 3px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    outline: none;
+    text-align: center;
+    width: 200px;
+    margin-top: 5px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.navbar p{
+    margin: 20px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: darkseagreen;
+}
